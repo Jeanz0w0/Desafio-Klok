@@ -1,0 +1,10 @@
+Cenário: Realizar uma pesquisa no site "Magazine Luiza" com fluxos alternativos
+
+Passos: 
+
+Centrar pela url do site Magazine Luiza realizando uma pesquisa de produto, utilizando o buscador.
+
+
+Resultado Esperado:
+
+Para ambos os caspos é esperado que a pesquisa mostre o produto pesquisado ou semelhante.
