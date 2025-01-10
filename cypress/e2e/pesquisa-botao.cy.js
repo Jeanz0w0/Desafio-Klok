@@ -1,4 +1,4 @@
-describe('Busca de produto pelo buscador do site "Magazine Luiza"', () => {
+describe('Busca de produto pelo botão do site "Magazine Luiza"', () => {
   
   it('Deve realizar pesquisa clicando no botão "Celulares"', () => {
     cy.visit('https://www.magazineluiza.com.br/');                       //url do site
